@@ -1,34 +1,58 @@
-# 👋 About Me
+# 👋 Hi, I'm Mark!
 
-Hi there! I'm a beginner Python developer with a passion for learning and improving my skills every day. As part of my journey, I've set myself a challenge — to fill in 365 activity squares on GitHub, documenting my progress and projects along the way.
+## 👨‍💻 About Me
+Backend developer and system administrator focused on Python/Django. Continuously growing in new technologies and learning both programming and human languages! 🚀
 
-## 🚀 My Tech Stack
+🌐 [My Website](https://solarezz.dev)
 
-- **Python**: 1.5 years (basic)
-- **C#**: 6 months (for interest)
-- **C++**: 6 months (for studies)
+## 🛠 Tech Stack
 
-## 🎯 Goals
+### 💻 Programming Languages & Technologies
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-My goal is to become a Backend Python Developer, specializing in the Django framework. Currently, I am diving into:
+### 🔧 DevOps & Administration
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- **Django**: Exploring web development with this powerful framework.
-- **PostgreSQL**: Learning advanced database management.
-- **React**: Understanding front-end development.
-- **HTML**: Building the foundations of web structure.
-- **SQLite**: Gaining basic knowledge for lightweight database solutions.
+### 🗃 Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📅 Challenge Timeline
+### 🌍 Languages
+- Russian (Native)
+- English (Learning)
+- German (Learning)
 
-At the end of my 365-day challenge, I plan to revisit this README and reflect on how much I've learned and how far I've come. 
+## 🎯 Core Skills
+- ⚡ Web application development with Django
+- 🖥 Linux server deployment
+- 🌐 Web server configuration (Nginx)
+- 🔄 API development and integration
+- 🎮 Game development with Unity
 
-**Start Date:** 19.07.2024  
-**End Date:** 19.07.2025
+## 📫 How to Reach Me
+- 🌐 Website: [solarezz.dev](https://solarezz.dev)
+- 📧 Email: [marksolarezz@gmail.com](mailto:marksolarezz@gmail.com)
+- 💬 Telegram: [@solarezzov](https://t.me/solarezzov)
 
-## 🌟 Let's Connect!
+## 📊 GitHub Stats
 
-Feel free to reach out if you have any questions, suggestions, or just want to connect! I'm always open to collaboration and learning from others in the community.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+
+## 🏆 GitHub Achievements
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
 
 ---
-
-Thank you for visiting my GitHub profile! Let's code our way to success together! 🚀
+⭐️ From [solarezz](https://github.com/solarezz)
