@@ -44,15 +44,15 @@ Backend developer and system administrator focused on Python/Django. Continuousl
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=solarezz&show_icons=true&theme=tokyonight)
 
 ## 🏆 GitHub Achievements
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solarezz&theme=tokyonight)
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solarezz&layout=compact&theme=tokyonight)
 
 ---
 ⭐️ From [solarezz](https://github.com/solarezz)
