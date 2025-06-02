@@ -52,7 +52,7 @@ Backend developer and system administrator focused on Python/Django. Continuousl
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://grs.yakovsava.dev/api/top-langs/?username=solarezz&layout=compact&theme=tokyonight)
+![Top Langs](https://grs.yakovsava.dev/top-langs/?username=solarezz&layout=compact&theme=tokyonight)
 
 ---
 ⭐️ From [solarezz](https://github.com/solarezz)
